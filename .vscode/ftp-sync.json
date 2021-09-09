@@ -1,0 +1,27 @@
+{
+    "remotePath": "/domains/html.tech5s.net/public_html/datdo/messagebay",
+    "host": "html.tech5s.net",
+    "username": "html",
+    "password": "7@7kx7za_pWsYSk%rK%B4=hD$Mw8gN",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ".php .js .html .css"
+        ],
+        "path": ""
+    }
+}
